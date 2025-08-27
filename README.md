@@ -1,5 +1,5 @@
 # Relational Algebra Operators Implementation
-### MSc Data Science & Engineering · Complex Data Management · Project 1: Relational Algebra Operators
+### MSc Data Science & Engineering · Complex Data Management Course · Project 1/4: Relational Algebra Operators
 
 ## Project Overview
 
