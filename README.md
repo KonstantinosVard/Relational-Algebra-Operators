@@ -112,7 +112,7 @@ python group_merge_sort.py R.tsv Rgroupby.tsv
 - All operations minimize disk I/O through efficient file handling
 
 ## Author
-
 **Konstantinos Vardakas** 
 
+---
 *This implementation demonstrates the practical advantages of efficient memory management and algorithm optimization when processing large-scale relational data operations.*
